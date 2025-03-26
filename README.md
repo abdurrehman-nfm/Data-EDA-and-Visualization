@@ -11,7 +11,7 @@ EDA steps:
 1. Removal of Duplicate Data
 2. Removal of Null entries
 3. Modifying data set to use necessary Fields
-4. Inter Qunatile Range to neglect the Outlier data
+4. Inter Quartile Range to neglect the Outlier data
 
 Data Visualization:
 1. Gender Diversity(Bar Graph)
